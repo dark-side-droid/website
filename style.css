@@ -134,6 +134,11 @@ img{
     max-height:1080px;
 }
 
+.img-17{
+    grid-area:img-17;
+    max-height:1000px;
+}    
+
 
 #myBtn {
     display: none;
