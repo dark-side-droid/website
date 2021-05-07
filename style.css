@@ -72,39 +72,47 @@ img{
 
 .img-1{
     grid-area: img-1;
+    max-height: 650px;
 }
 
 .img-2{
     grid-area: img-2;
+    max-height: 650px;
 }
 
 .img-3{
     grid-area: img-3;
+    max-height:600px;
 }
 
 .img-4{
     grid-area: img-4;
+    max-height: 800px;
 }
 
 .img-5{
     grid-area: img-5;
+    max-height: 800px;
 }
 
 .img-6{
     grid-area:img-6;
+    max-height: 800px;
 }
 
 .img-7{
     grid-area: img-7;
-    
+    max-height: 800px;  
 }
 
 .img-8{
     grid-area: img-8;
+    max-height: 650px;
 }
 
 .img-9{
     grid-area: img-9;
+    max-height: 650px;
 }
 
 .img-10{
@@ -113,31 +121,19 @@ img{
 
 .img-11{
     grid-area: img-11;
+    max-height: 650px;
 }
 
 .img-12{
     grid-area:img-12;
+    max-height: 650px;
 }
 
 .img-13{
     grid-area: img-13;
+    max-height:1080px;
 }
 
-.img-14{
-    grid-area: img-14;
-}
-
-.img-15{
-    grid-area: img-15;
-}
-
-.img-16{
-    grid-area: img-16;
-}
-
-.img-17{
-    grid-area:img-17;
-}
 
 #myBtn {
     display: none;
